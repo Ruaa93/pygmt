@@ -5,12 +5,12 @@
 
 Computation times
 =================
-**00:01.771** total execution time for **gallery_plot** files:
+**00:01.793** total execution time for **gallery_plot** files:
 
 +------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_gallery_plot_points.py` (``points.py``)     | 00:00.643 | 0.0 MB |
+| :ref:`sphx_glr_gallery_plot_points.py` (``points.py``)     | 00:00.647 | 0.0 MB |
 +------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_gallery_plot_legend.py` (``legend.py``)     | 00:00.628 | 0.0 MB |
+| :ref:`sphx_glr_gallery_plot_legend.py` (``legend.py``)     | 00:00.635 | 0.0 MB |
 +------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_gallery_plot_colorbar.py` (``colorbar.py``) | 00:00.500 | 0.0 MB |
+| :ref:`sphx_glr_gallery_plot_colorbar.py` (``colorbar.py``) | 00:00.511 | 0.0 MB |
 +------------------------------------------------------------+-----------+--------+
